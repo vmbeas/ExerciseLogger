@@ -1,0 +1,14 @@
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\bin\Debug\ExerciseLogger.exe.config
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\bin\Debug\ExerciseLogger.exe
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\bin\Debug\ExerciseLogger.pdb
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger.csprojResolveAssemblyReference.cache
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\MainWindow.g.cs
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\App.g.cs
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger_MarkupCompile.cache
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger_MarkupCompile.lref
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\MainWindow.baml
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger.g.resources
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger.Properties.Resources.resources
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger.csproj.GenerateResource.Cache
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger.exe
+E:\Users\vmbeas\Documents\Visual Studio 2015\Projects\ExerciseLogger\ExerciseLogger\obj\Debug\ExerciseLogger.pdb

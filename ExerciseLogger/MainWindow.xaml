@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ExerciseLogger"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="300" Width="350">
     <Grid>
-        
+        <Label x:Name="nameLabel" Content="Exercise Name" HorizontalAlignment="Left" Margin="45,30,0,0" VerticalAlignment="Top" Height="26" Width="87"/>
+        <Label x:Name="weightLabel" Content="Weight" HorizontalAlignment="Left" Margin="45,60,0,0" VerticalAlignment="Top" Height="26" Width="48"/>
+        <Label x:Name="repLabel" Content="Reps" HorizontalAlignment="Left" Margin="45,90,0,0" VerticalAlignment="Top" Height="26" Width="35"/>
+        <Label x:Name="restLabel" Content="Rest Time" HorizontalAlignment="Left" Margin="45,120,0,0" VerticalAlignment="Top" Height="26" Width="61"/>
+        <Label x:Name="notesLabel" Content="Notes" HorizontalAlignment="Left" Margin="45,150,0,0" VerticalAlignment="Top" Height="26" Width="41"/>
+        <TextBox x:Name="nameTxt" HorizontalAlignment="Left" Height="23" Margin="150,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" MaxLines="1" TabIndex="1"/>
+        <TextBox x:Name="weightTxt" HorizontalAlignment="Left" Height="23" Margin="150,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" MaxLines="1" TabIndex="2"/>
+        <TextBox x:Name="repTxt" HorizontalAlignment="Left" Height="23" Margin="150,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" MaxLines="1" TabIndex="3"/>
+        <TextBox x:Name="restTxt" HorizontalAlignment="Left" Height="23" Margin="150,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" MaxLines="1" TabIndex="4"/>
+        <TextBox x:Name="notesTxt" HorizontalAlignment="Left" Height="69" Margin="150,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" TabIndex="5"/>
+        <Button x:Name="submitButton" Content="Submit" HorizontalAlignment="Left" Margin="75,230,0,0" VerticalAlignment="Top" Width="75" Click="submitButton_Click" TabIndex="6"/>
+        <Button x:Name="clearButton" Content="Clear" HorizontalAlignment="Left" Margin="165,230,0,0" VerticalAlignment="Top" Width="75" Click="clearButton_Click" TabIndex="7"/>
+
     </Grid>
 </Window>
